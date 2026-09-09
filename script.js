@@ -16,7 +16,7 @@ canvas.height = height;
 // Word and particles
 // ========================================
 
-const word = "RETHABILE";
+const word = "ALKEBULAN";
 const particles = [];
 
 
